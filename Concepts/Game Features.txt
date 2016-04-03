@@ -1,22 +1,25 @@
-- Plot
-    - The main protagonist is a... well, you don't know what it $
-      The only time the game is in First Person Perspective is w$
-    - The protagonist can not remember what it is, but finds it $
-    - One problem - it can't. Instead, it must temporarily assum$
-    - Prologue ends when main character interacts with anyone.
-    - The thing will eventually regain enough memories to recall$
-    - It encounters something that will restore it back to the o$
-    - The it is a she?
+Anyone, yet No One
+(OR: Many I am called, but not many I am)
 
+- Plot
+    - The main protagonist is a... well, you don't know what it is. And neither does the protagonist.
+      The only time the game is in First Person Perspective is when you control it.
+    - The protagonist can not remember what it is, but finds it may recover memories by interacting with the people.
+    - One problem - it can't. Instead, it must temporarily assume the roles of everyone.
+    - Prologue ends when main character interacts with anyone.
+    - The thing will eventually regain enough memories to recall what it is.
+    - It encounters something that will restore it back to the original state.
+    - The it is a she?
+    
 
 - Nonlinear Storyline
-    - Story broke up into characters, then broke up into chapter$
-    - You can switch characters at any time - you can play ANY c$
-    - Decisions you make in the chapters of some characters can $
-    - A "chapter" is a measurement of time for a single characte$
+    - Story broke up into characters, then broke up into chapters which can be changed by "divergences".
+    - You can switch characters at any time - you can play ANY character.
+    - Decisions you make in the chapters of some characters can effect the fates of others.
+    - A "chapter" is a measurement of time for a single character. This being said, A character in chapter 6 is
       furthur in time then one in chapter 2.
-    - Events that change fate are decided by the character who h$
-      that have been effected may have their stories change to f$
-      calls the shopkeep to the woods and kills him, the shopkee$
-    - The game unlocks the main character after a set amount of $
+    - Events that change fate are decided by the character who has progressed more through time, and the character(s)
+      that have been effected may have their stories change to force the event to happen. For example, if the blacksmith
+      calls the shopkeep to the woods and kills him, the shopkeep must go to the woods in his story.
+    - The game unlocks the main character after a set amount of chapters have passed. The game ends when the main character's
       final chapter is attained.
