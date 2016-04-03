@@ -1,0 +1,90 @@
+Anyone, yet No One
+(OR: Many I am called, but not many I am)
+
+- Plot
+    - The main protagonist is a... well, you don't know what it is. And neither does the protagonist.
+      The only time the game is in First Person Perspective is when you control it.
+    - The protagonist can not remember what it is, but finds it may recover memories by interacting with the people.
+    - One problem - it can't. Instead, it must temporarily assume the roles of everyone.
+    - Prologue ends when main character interacts with anyone.
+    - The thing will eventually regain enough memories to recall what it is.
+    - It encounters something that will restore it back to the original state.
+    - The it is a she?
+    
+
+- Nonlinear Storyline
+    - Story broke up into characters, then broke up into chapters which can be changed by "divergences".
+    - You can switch characters at any time - you can play ANY character.
+    - Decisions you make in the chapters of some characters can effect the fates of others.
+    - A "chapter" is a measurement of time for a single character. This being said, A character in chapter 6 is
+      furthur in time then one in chapter 2.
+    - Events that change fate are decided by the character who has progressed more through time, and the character(s)
+      that have been effected may have their stories change to force the event to happen. For example, if the blacksmith
+      calls the shopkeep to the woods and kills him, the shopkeep must go to the woods in his story.
+    - The game unlocks the main character after a set amount of chapters have passed. The game ends when the main character's
+      final chapter is attained.
+
+- Characters
+    - YOU. Shown as ??? until your proper end. You exist as an entity, but you have no physical composition. Who are you?
+    - The Deus Ex Machina, or the God of the Machine. The one actually responsible for your misfortunes, but (s)he may have
+      better intentions then you think.
+    - Dren, the barkeep. Age 34. Married to the waitress Shella and has a child named Kelly. Having fought for his
+      country for awful 10 years, he suffers from paranoia and can be scared from his regulars when they are drunk.
+    - Shella, the waitress. Age 29. Met Dren during the war and was his superior. Often dotes over Kelly a little too much,
+      and attracts over half the men at the bar.... until she points to her (a little scary) husband.
+    - Kelly. Age 8. The child of Dren and Shella. She is somehow better at creating cocktails than her father, despite
+      not drinking any of them. One of the most optimistic of the town.
+    - Kirk, the elder shopkeep. Age 73. Have survived two terrible wars, but his age has finally caught up to him. Although
+      he tries to be as upbeat as possible, he isn't doing to well.
+    - Ben, the younger shopkeep. Age 24. Caretaker of his grandfather, Kirk. Although he tries to help his grandfather
+      as much as possible, he can not stand seeing his grandfather in pain from his ailments. Has a crush on Lesse.
+    - Lesse, the teacher. Age 27. Caring of the students, she tries not only to teach her students what is on the nation's
+      curiculum, but also many practical skills on how to succeed in life. Extraordinally dense.
+    - Brent, the mayor. Age 67. Tries his best to improve the town, but can never seem to get enough funding to do so. Suspects
+      someone is pocketing some of the tax revenues. Extremely protective of his grandchild, Erik, as he lost the rest of his
+      family in the last war. Missing his left arm.
+    - Steve, the mayor's aide. Age 17. Seemingly optimistic, he may be hiding something...
+    - Erik. Age 7. Brent's grandchild. Likes playing war games, much to his grandfather's discontent. Desires to become a hero
+      "like his dad". Orphaned at the age of 3.
+    - Colt, the blacksmith. Age 44. Deals with all the town's metalwork, but is sometimes a bit too passionate. Also a
+      pyromaniac. To this day, the other still wonder how he can live with Cathleen, the village slacker.
+    - Cathleen, the messenger. Age 42. Responsible for delivering messages. Despite the fact that the town rarely sends mail,
+      the lag times are equivalent to the most loaded carriers in the largest cities. Very lazy, but she and her husband
+      create devices to make her job even lazier.
+    - Benton, the lord. Age 36. He holds sovereignty over the village, but he leaves all affairs to Brent. Though he is a lord,
+      he certainly does not dress like one. Maried to Grace and has a child named Lucy. Other lords do not like him.
+    - Grace, the lady. Age 30. Although she may seem serene and regal, she makes the most lewd insinuations. Probably a
+      terrible influence on Lucy, but she simply "does not give a shit". 
+    - Lucy. Age 8. The child of the nobles. She has inherited her mother's tongue and is a master of debates, having intimidated
+      a team of her kidnappers solely by speaking to them. The most rational and wary of the children.
+    - Keller, the butler. Age 34. Maried to Helen and the father of Reflet. Though he appears courteous, he is the second most
+      wary of the estate, being beaten only by Lucy. Unfortunately, his awareness does not prevent him from tripping all over
+      the place. He is a genius inventor, and has created a surveilance system using mirrors to watch over the estate.
+    - Helen, the maid. Age 32. Incredibly capable as a servant, but more so as a commander. When the village is in danger,
+      she is responsible for leading the soldiers. However, no matter how strong she seems, Reflet always manages to bring out
+      her sweet side.
+    - John, the priest. Age 53. The maintainer of the new church. Following the events of the past war, he is severely depressed
+      and despite his position, visits the bar frequently. But no one blames him as he is the only one alive out of the 12 staff.
+    - Catherine, the explorer. Age 41. She leaves the village often in search for new trade routes and newer lands. Also skilled
+      as a thief as she has stolen from bandits more than once.
+    - Robin, the thief. Age 39. People scold him for helping his wife raid bandits to return the money to the victims, but he
+      cares not. Although he does not have the cleanest past relating to nobles, Benton doesn't mind, as he got to see Keller's
+      surveillance system in use.
+    - Riding Hood (A.K.A. Emily). Age 13. The most silent of the townspeople, but has inherited her father's kindness. Although
+      Robin  boasts about it, the townspeople rarely see it as she never seems to be around....
+    - Trent, the mechanic. Age 22. Best friends with Colt and Keller, and is currently dating Margaret. Although one of the
+      youngest in the last war, he has created the most ingenious weaponry that has saved the lives of the town. However, it is
+      often said that every full moon, an explosion occurs in his basement.
+    - Margaret, the doctor. Age 23. Met Trent after he got injured in one of his infamous explosions. Although she complains
+      about his lack of care, having treated him an absurd times a year, she can not get enough of his sleeping face. As she
+      owns the hospital, she provides the medicine for everyone.
+    - Brenna, the knight. Age 33. She tries her hardest to stop the town from being harmed from crime, but has difficulty
+      doing so. She also posesses the position as judge of the land, and tries to maintain law and order. Currently trying to
+      investigate a possible tax scandal. NOTE: Brenna is special as she may only be controlled after a crime has taken place.
+
+Divergences:
+    - [a,b] denotes the chapter of the pereffecter and the effectee.
+    - Routes are denoted with a letter. 
+    - You and the Deus Ex Machina do not directly effect the others' chapter sequnce.
+    - Dren (Barkeep) + John (Priest) - > John may die.
+	
