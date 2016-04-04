@@ -3,11 +3,11 @@
     - The Deus Ex Machina, or the God of the Machine. The one actually responsible for your misfortunes, but (s)he may have
       better intentions then you think.
     - Dren, the barkeep. Age 34. Married to the waitress Shella and has a child named Kelly. Having fought for his
-      country for awful 10 years, he suffers from paranoia and can be scared from his regulars when they are drunk.
+      country for 10 awful years, he suffers from paranoia and can be scared from his regulars when they are drunk.
     - Shella, the waitress. Age 29. Met Dren during the war and was his superior. Often dotes over Kelly a little too much,
       and attracts over half the men at the bar.... until she points to her (a little scary) husband.
     - Kelly. Age 8. The child of Dren and Shella. She is somehow better at creating cocktails than her father, despite
-      not drinking any of them. One of the most optimistic of the town.
+      not drinking any of them. One of the most optimistic of the town. *hinamatsuri
     - Kirk, the elder shopkeep. Age 73. Have survived two terrible wars, but his age has finally caught up to him. Although
       he tries to be as upbeat as possible, he isn't doing to well.
     - Ben, the younger shopkeep. Age 24. Caretaker of his grandfather, Kirk. Although he tries to help his grandfather
@@ -37,6 +37,7 @@
     - Helen, the maid. Age 32. Incredibly capable as a servant, but more so as a commander. When the village is in danger,
       she is responsible for leading the soldiers. However, no matter how strong she seems, Reflet always manages to bring out
       her sweet side.
+    - add reflet here
     - John, the priest. Age 53. The maintainer of the new church. Following the events of the past war, he is severely depressed
       and despite his position, visits the bar frequently. But no one blames him as he is the only one alive out of the 12 staff.
     - Catherine, the explorer. Age 41. She leaves the village often in search for new trade routes and newer lands. Also skilled
@@ -48,16 +49,32 @@
       Robin  boasts about it, the townspeople rarely see it as she never seems to be around....
     - Trent, the mechanic. Age 22. Best friends with Colt and Keller, and is currently dating Margaret. Although one of the
       youngest in the last war, he has created the most ingenious weaponry that has saved the lives of the town. However, it is
-      often said that every full moon, an explosion occurs in his basement.
+      often said that every full moon, an explosion occurs in his basement. *does he avoid silver? *needs more "tells"
     - Margaret, the doctor. Age 23. Met Trent after he got injured in one of his infamous explosions. Although she complains
       about his lack of care, having treated him an absurd times a year, she can not get enough of his sleeping face. As she
       owns the hospital, she provides the medicine for everyone.
     - Brenna, the knight. Age 33. She tries her hardest to stop the town from being harmed from crime, but has difficulty
       doing so. She also posesses the position as judge of the land, and tries to maintain law and order. Currently trying to
       investigate a possible tax scandal. NOTE: Brenna is special as she may only be controlled after a crime has taken place.
+      *Knight doesn't really make sense. Maybe make it a police officer? When does this game take place?
 
 Divergences:
     - [a,b] denotes the chapter of the pereffecter and the effectee.
     - Routes are denoted with a letter. 
     - You and the Deus Ex Machina do not directly effect the others' chapter sequnce.
     - Dren (Barkeep) + John (Priest) - > John may die.
+    - Colt (Blacksmith) is destined to have an accident with fire. Who gets hurt in the accident depends on Colt's relation
+      with Trent. If they are enemies, both will die in a fire. If they are friends, one of them will die. If they do not
+      have any significant interaction, Cathleen will be permanently crippled by the fire, forcing her to do less than ever. (see the irony?)
+    - If Steve is caught (depends on choices in Steve, Brenna, Brent routes) = life sentance
+      If Erik tries to stop him, he will be murdered but Steve will be caught = Public Execution by Brenna
+    - Catherine or Robin die during a raid (Same chapter in both routes, the choice is shown in the first played, fate
+      determined in the second played)
+    - If Margaret is not careful, she will die in an explosion and Trent will be arrested. Tips on how to survive Margaret route are hidden
+      in Trent route, but are not necessary
+      for a Margaret route clear. Margaret may still die in Trent route (really hard to do though).
+    - Based on different decisions in multiple routes, Kirk dies in different ways. If he does not pass peacefully, it affects Ben negatively.
+      Easiest way to achieve peaceful passing is to have Ben introduce his new girlfriend Lesse to Kirk.
+     
+
+**what "year" does this game take place; if alt universe, what is the level of technology? eg. gunpowder, steel, concrete houses, etc. 
