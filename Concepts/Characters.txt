@@ -9,7 +9,7 @@
     - Kelly. Age 8. The child of Dren and Shella. She is somehow better at creating cocktails than her father, despite
       not drinking any of them. One of the most optimistic of the town. *hinamatsuri
     - Kirk, the elder shopkeep. Age 73. Have survived two terrible wars, but his age has finally caught up to him. Although
-      he tries to be as upbeat as possible, he isn't doing to well.
+      he tries to be as upbeat as possible, he isn't doing to well. Suffers from tuberculosis.
     - Ben, the younger shopkeep. Age 24. Caretaker of his grandfather, Kirk. Although he tries to help his grandfather
       as much as possible, he can not stand seeing his grandfather in pain from his ailments. Has a crush on Lesse.
     - Lesse, the teacher. Age 27. Caring of the students, she tries not only to teach her students what is on the nation's
@@ -76,7 +76,7 @@ Divergences:
     - Kirk will die in one of the multitude of ways, but can cause Lesse or Ben to have a more tragic end before doing so.
       - Kirk may die in peace if Ben shows Lesse to Kirk as Ben's girlfriend. However, Kirk dies that very night, and
         Ben and Lesse fall out the next morning since Ben becomes extremely depressed.
-      - If Ben and Lesse start dating while Kirk is alive, Lesse is set to die from a case of tubercolosis. This is because
+      - If Ben and Lesse start dating while Kirk is alive, Lesse is set to die from a case of tuberculosis. This is because
         Lesse did not know Kirk had it when she visited him.
       - If Kirk dies and Ben does not confess before a certain chapter, he will commit suicide.
       - If Kirk dies and Ben and Lesse start dating after, they will survive if not killed off by other character/events or
