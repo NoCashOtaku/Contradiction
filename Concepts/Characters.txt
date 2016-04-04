@@ -56,7 +56,6 @@
     - Brenna, the knight. Age 33. She tries her hardest to stop the town from being harmed from crime, but has difficulty
       doing so. She also posesses the position as judge of the land, and tries to maintain law and order. Currently trying to
       investigate a possible tax scandal. NOTE: Brenna is special as she may only be controlled after a crime has taken place.
-      *Knight doesn't really make sense. Maybe make it a police officer? When does this game take place?
 
 Divergences:
     - [a,b] denotes the chapter of the pereffecter and the effectee.
@@ -65,16 +64,23 @@ Divergences:
     - Dren (Barkeep) + John (Priest) - > John may die.
     - Colt (Blacksmith) is destined to have an accident with fire. Who gets hurt in the accident depends on Colt's relation
       with Trent. If they are enemies, both will die in a fire. If they are friends, one of them will die. If they do not
-      have any significant interaction, Cathleen will be permanently crippled by the fire, forcing her to do less than ever. (see the irony?)
+      have any significant interaction, Cathleen will be permanently blinded/crippled by the fire, forcing her to do less
+      than ever. (SEE the irony?)
     - If Steve is caught (depends on choices in Steve, Brenna, Brent routes) = life sentance
       If Erik tries to stop him, he will be murdered but Steve will be caught = Public Execution by Brenna
     - Catherine or Robin die during a raid (Same chapter in both routes, the choice is shown in the first played, fate
       determined in the second played)
-    - If Margaret is not careful, she will die in an explosion and Trent will be arrested. Tips on how to survive Margaret route are hidden
-      in Trent route, but are not necessary
-      for a Margaret route clear. Margaret may still die in Trent route (really hard to do though).
-    - Based on different decisions in multiple routes, Kirk dies in different ways. If he does not pass peacefully, it affects Ben negatively.
-      Easiest way to achieve peaceful passing is to have Ben introduce his new girlfriend Lesse to Kirk.
+    - If Margaret is not careful, she will die in an explosion and Trent will be arrested.
+      Tips on how to survive Margaret route are hidden in Trent's path, but are not necessary for her to survive.
+      If you are stupid enough, Margaret may still die in Trent's path (READ: VERY STUPID).
+    - Kirk will die in one of the multitude of ways, but can cause Lesse or Ben to have a more tragic end before doing so.
+      - Kirk may die in peace if Ben shows Lesse to Kirk as Ben's girlfriend. However, Kirk dies that very night, and
+        Ben and Lesse fall out the next morning since Ben becomes extremely depressed.
+      - If Ben and Lesse start dating while Kirk is alive, Lesse is set to die from a case of tubercolosis. This is because
+        Lesse did not know Kirk had it when she visited him.
+      - If Kirk dies and Ben does not confess before a certain chapter, he will commit suicide.
+      - If Kirk dies and Ben and Lesse start dating after, they will survive if not killed off by other character/events or
+        stupidity.
+      - Kirk doesn't die. He is actually the Deus Ex Machina all along. (This is most likely a joke divergence).
+    - 
      
-
-**what "year" does this game take place; if alt universe, what is the level of technology? eg. gunpowder, steel, concrete houses, etc. 
